@@ -1,0 +1,4 @@
+# FCN_Pytorch_Simple_Implementation_FCN实现语义分割.
+
+FCN的一个pytorch简单复现，数据集很小，是一些随机背景上的一些包的图片（所有数据集大小一共不到80M）
+关于此数据集详细信息，见数据集
