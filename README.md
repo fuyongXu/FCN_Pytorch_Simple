@@ -34,4 +34,6 @@ FCN的一个pytorch简单复现，数据集很小，是一些随机背景上的�
 - 定义方便PyTorch读取数据的Dataset和DataLoader
 - 定义数据的变换transform
 4. onehot.py
-- 图片的onehot编码
+- 图片的onehot编码  
+
+如果您有任何建议或问题，欢迎随时与我联系，如果您发现了任何bug，或者您想做出贡献，请创建一个PR。:smile:
