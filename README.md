@@ -3,7 +3,13 @@
 FCN的一个pytorch简单复现，数据集很小，是一些随机背景上的一些包的图片（所有数据集大小一共不到80M）  
 关于此数据集详细信息，见文件bag_data和bag_data_mask。  
 根据论文实现了FCN32s、FCN16s、FCN8s和FCNs  
-使用visdom可视化，运行了100个epoch后的可视化如下图：
+使用visdom可视化，运行了100个epoch后的可视化如下图：  
+
+![image](https://github.com/fuyongXu/FCN_Pytorch_Simple/blob/master/images/acc.png)
+![image](https://github.com/fuyongXu/FCN_Pytorch_Simple/blob/master/images/test_iter_loss.svg)  
+![image](https://github.com/fuyongXu/FCN_Pytorch_Simple/blob/master/images/train.png)
+![image](https://github.com/fuyongXu/FCN_Pytorch_Simple/blob/master/images/test_prediction.png)
+
 >1.1 我的运行环境  
 - Windows 10
 - pytorch == 1.0
